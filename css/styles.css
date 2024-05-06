@@ -661,6 +661,10 @@ label>input {
   display: none;
 }
 
+.desktop {
+  display: inherit;
+}
+
 @media screen and (max-width: 428px) {
   .desktop {
     display: none;
